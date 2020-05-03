@@ -1,5 +1,9 @@
 # perpustakaan
 simple system perpustakaan
+<br>
+<b>Donate:</b>
+<br>
+BCA: 5211363364
 
 
 # Picture
