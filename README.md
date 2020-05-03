@@ -1,5 +1,5 @@
 # perpustakaan
-simple system perpustakaan
+simple perpustakaan system with laravel
 <br>
 <b>Donate:</b>
 <br>
